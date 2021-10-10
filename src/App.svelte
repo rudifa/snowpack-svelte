@@ -34,6 +34,7 @@
 
 <h1>👋</h1>
 <h2>
+    <p><img src="assets/svelte.png" alt="" style="width:50px;height:60px;"/></p>
     Welcome to <a href="https://svelte.dev/">Svelte</a>,<br />
     bundled by <a href="https://www.snowpack.dev/">Snowpack</a>
 </h2>
