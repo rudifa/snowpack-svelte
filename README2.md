@@ -1,6 +1,6 @@
 # Snowpack + Svelte
 
-A quick start [tutorial](https://www.webtips.dev/what-is-snowpack) by [webtips](https://www.webtips.dev/).
+Follow the quick start [tutorial](https://www.webtips.dev/what-is-snowpack) by [webtips](https://www.webtips.dev/).
 
 Create a Snowpack project
 
